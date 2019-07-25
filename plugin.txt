@@ -1,0 +1,79 @@
+常用插件
+Document This                                  jsdoc注释生成。
+eCSStractor-----抽取页面的class，生成一个css文档。
+CSS Peek------class名字定义跳转。（终于拥有dw cc的这个css定义跳转功能）
+Live Server-----http服务器（相当于使用nodejs的http-server ）。
+Change Case-----变量名命名风格切换。（解决了命名风格不统一的工具）
+open in browser                                在浏览器中打开html文件
+Beautify                                       格式化代码
+Bracket Pair Colorizer                          给括号加上不同的颜色，便于区分不同的区块
+Auto Close Tag                                 自动闭合HTML标签 
+Auto Rename Tag                                修改HTML标签时，自动修改匹配的标签 
+Bookmarks                                      添加行书签 
+Can I Use                                      HTML5、CSS3、SVG的浏览器兼容性检查 
+Code Runner                                    运行选中代码段（支持大量语言，包括Node） 
+CodeBing                                       在VSCode中弹出浏览器并搜索，可编辑搜索引擎 
+Color Highlight                                颜色值在代码中高亮显示 
+Color Picker                                   拾色器 
+Document This                                  注释文档生成 
+EditorConfig for VS Code             　　　　　EditorConfig插件 
+Emoji                                          在代码中输入emoji 
+ESLint                                         ESLint插件，高亮提示 
+File Peek                                      根据路径字符串，快速定位到文件 
+Font-awesome codes for html      　　　　　　　FontAwesome提示代码段 
+ftp-sync                                       同步文件到ftp 
+Git Blame                                      在状态栏显示当前行的Git信息 
+Git History(git log)                           查看git log 
+GitLens                                        显示文件最近的commit和作者，显示当前行commit信息 
+Guides                                         高亮缩进基准线 
+Gulp Snippets                                  Gulp代码段 
+HTML CSS Class Completion   　　　　　　　　　CSS class提示 
+HTML CSS Support                              css提示（支持vue） 
+HTMLHintHTML                                  格式提示 
+Indenticator                                  缩进高亮 
+JavaScript (ES6) code snippets               ES6语法代码段 
+language-stylus                        　　　Stylus语法高亮和提示 
+Lodash                                       Lodash代码段 
+markdownlint                                 Markdown格式提示 
+MochaSnippets                       　　　　 Mocha代码段 
+Node modules resolve                         快速导航到Node模块 
+npm                                          运行npm命令 
+npm Intellisense                             导入模块时，提示已安装模块名称 
+Output Colorizer                             彩色输出信息 
+Partial Diff                                 对比两段代码或文件 
+Path Autocomplete                            路径完成提示 
+Path Intellisense                            另一个路径完成提示 
+Prettify JSON                                格式化JSON 
+Project Manager                 　　　　　　 快速切换项目 
+REST Client                        　　　　　发送REST风格的HTTP请求 
+Settings Sync VSCode      　　　　　　　　　设置同步到Gist 
+String Manipulation           　　　　　　  字符串转换处理（驼峰、大写开头、下划线等等） 
+Test Spec Generator                         测试用例生成（支持chai、should、jasmine） 
+TODO Parser                                 Todo管理 
+Version Lens                                 package.json文件显示模块当前版本和最新版本 
+vetur                                        目前比较好的Vue语法高亮 
+View Node Package                           快速打开选中模块的主页和代码仓库 
+vscode-icons                                文件图标，方便定位文件 
+VSCode Great Icons        　　　　　　　　　文件图标拓展 
+VueHelper                                    Vue2代码段（包括Vue2 api、vue-router2、vuex2）
+
+Quokka.js                                    可以即时显示js和ts的运行结果，想试验一些短代码的运行结果，但是又不想之后删除文件的时候可以用到
+
+codeRunner                                   可以运行C, C++, Java, JavaScript, PHP, Python, Perl, Perl 6, Ruby, Go, Lua, Groovy, PowerShell, BAT/CMD, BASH/SH, F# Script, F# (.NET Core), C# Script,等开发语言并支持局部执行
+
+IntelliSense for CSS class names      智能提示 css 的 class 名
+Node.js Modules Intellisense          可以在导入语句中自动完成JavaScript / TypeScript模块。
+vscode-faker                           生成假数据，地址，电话，图片等等
+Regex Previewer                        测试正则的插件
+Debugger for Chrome 
+JavaScript(ES6) code snippets 
+Path Intellisense
+
+vue - 开发插件
+VueHelper                               .vue格式支持，以及语法高亮和补全
+Vetur                                   预处理器语法支持
+
+
+react - 开发插件
+React/Redux/react-router Snippets      React/Redux/react-router语法智能提示
+reactjs code snippets                   开发的一些简写，提高开发效率 
