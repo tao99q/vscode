@@ -79,4 +79,17 @@ React/Redux/react-router Snippets      React/Redux/react-router语法智能提�
 reactjs code snippets                   开发的一些简写，提高开发效率 
 
 
+常用插件
+css Peek            html 与css 关联
+prettier            代码格式化
+icon Fonts          图标集
+Auto rename tag     自动重命名标签
+HTML Boilerplate    HTML模板
+color info          颜色提示
+Auto close tag      自动闭合标签
+HTML CSS Support    html中css class 智能提示
+
+
+
+
 
