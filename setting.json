@@ -1,0 +1,62 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Material Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 14,
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    //根据文件后缀名定义vue文件类型
+    "files.associations": {
+        "*.vue": "vue"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    // 100 列后换行
+    "editor.wordWrapColumn": 100,
+    // 开启 vscode 文件路径导航
+    "breadcrumbs.enabled": true,
+    // prettier 设置语句末尾不加分号
+    "prettier.semi": true,
+    // prettier 设置强制单引号
+    "prettier.singleQuote": true,
+    // 选择 vue 文件中 template 的格式化工具
+    "vetur.format.defaultFormatter.html": "prettyhtml",
+    // 显示 markdown 中英文切换时产生的特殊字符
+    "editor.renderControlCharacters": true,
+    // 设置 eslint 保存时自动修复
+    "eslint.autoFixOnSave": true,
+    // eslint 检测文件类型
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        {
+            "language": "html",
+            "autoFix": true
+        },
+        {
+            "language": "vue",
+            "autoFix": true
+        }
+    ],
+    // vetur 的自定义设置
+    "vetur.format.defaultFormatterOptions": {
+        "prettier": {
+            "singleQuote": true,
+            "semi": true
+        }
+    },
+    "git.autofetch": true
+}
